@@ -36,8 +36,8 @@
     color: #666;
     outline: none;
     transition: all 100ms ease-out;
-    border: 1px solid #2962ff;
-    background: #2962ff;
+    border: 1px solid #05450ae4;
+    background: #2eb206;
     color: #fff;
 
     &:hover,
